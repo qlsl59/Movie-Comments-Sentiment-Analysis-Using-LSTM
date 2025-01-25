@@ -11,10 +11,7 @@
   - 분석데이터        
       -  데이터소개
         - 지하철 데이터 (서울교통공사 관할인 1~8호선 데이터 사용)
-            - [서울시열린데이터광장 : 서울교통공사 역별 시간대별 혼잡도](https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do)
-            - [서울시열린데이터광장 : 서울교통공사 연도별 일별 역별 시간대별 승하차인원(1_8호선)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
-            - [서울시열린데이터광장 : 서울시 지하철 호선별 역별 시간대별 지하철 인원 정보)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
-            - [서울시열린데이터광장 : 서울시 지하철 실시간 도착 정보](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)
+            - [네이버 영화 리뷰 데이터](https://github.com/e9t/nsmc)
 
 ## 프로젝트 조직 (역할 분담) - 본인 파트: 머신러닝
 - 팀장(1명): 프로젝트 총괄
