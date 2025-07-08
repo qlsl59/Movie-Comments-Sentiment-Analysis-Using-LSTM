@@ -1,7 +1,7 @@
 ## 프로젝트 정보
 
 - 사용언어: Python, JS
-- 개발환경: VSCODE, Jupyter Notebook, Python
+- 개발환경: VSCODE, Jupyter Notebook
 - 인원: 1명
 - 기간: 2024.05.01 ~ 2024.06.12
 
